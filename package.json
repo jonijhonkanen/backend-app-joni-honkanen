@@ -1,0 +1,21 @@
+{
+  "name": "backend-app-joni-honkanen",
+  "version": "1.0.0",
+  "description": "Application for 4A00EZ62-3003 Backend - Development Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonijhonkanen/backend-app-joni-honkanen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonijhonkanen/backend-app-joni-honkanen/issues"
+  },
+  "homepage": "https://github.com/jonijhonkanen/backend-app-joni-honkanen#readme"
+}
